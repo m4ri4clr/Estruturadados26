@@ -28,9 +28,9 @@ for (int i = 0; i < qtdeletras; i++)
 
 if (palindromo == 1)
 {
-    Console.WriteLine("A palavra é um palíndromo!");
+    Console.WriteLine("É um palíndromo");
 }
 else
 {
-    Console.WriteLine("A palavra não é um palíndromo.");
+    Console.WriteLine("Não é um palíndromo");
 }
