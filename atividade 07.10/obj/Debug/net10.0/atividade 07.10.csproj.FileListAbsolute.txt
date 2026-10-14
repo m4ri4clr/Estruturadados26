@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Desktop\Faculdade\2 semestre\estrutura de dados\dicionario\atividade 07.10\bin\Debug\net10.0\atividade 07.10.exe
+C:\Users\maria\OneDrive\Desktop\Faculdade\2 semestre\estrutura de dados\dicionario\atividade 07.10\bin\Debug\net10.0\atividade 07.10.deps.json
+C:\Users\maria\OneDrive\Desktop\Faculdade\2 semestre\estrutura de dados\dicionario\atividade 07.10\bin\Debug\net10.0\atividade 07.10.runtimeconfig.json
+C:\Users\maria\OneDrive\Desktop\Faculdade\2 semestre\estrutura de dados\dicionario\atividade 07.10\bin\Debug\net10.0\atividade 07.10.dll
+C:\Users\maria\OneDrive\Desktop\Faculdade\2 semestre\estrutura de dados\dicionario\atividade 07.10\bin\Debug\net10.0\atividade 07.10.pdb
+C:\Users\maria\OneDrive\Desktop\Faculdade\2 semestre\estrutura de dados\dicionario\atividade 07.10\obj\Debug\net10.0\atividade 07.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\Faculdade\2 semestre\estrutura de dados\dicionario\atividade 07.10\obj\Debug\net10.0\atividade 07.10.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\Faculdade\2 semestre\estrutura de dados\dicionario\atividade 07.10\obj\Debug\net10.0\atividade 07.10.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\Faculdade\2 semestre\estrutura de dados\dicionario\atividade 07.10\obj\Debug\net10.0\atividade 07.10.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\Faculdade\2 semestre\estrutura de dados\dicionario\atividade 07.10\obj\Debug\net10.0\atividade 07.10.sourcelink.json
+C:\Users\maria\OneDrive\Desktop\Faculdade\2 semestre\estrutura de dados\dicionario\atividade 07.10\obj\Debug\net10.0\atividade 07.10.dll
+C:\Users\maria\OneDrive\Desktop\Faculdade\2 semestre\estrutura de dados\dicionario\atividade 07.10\obj\Debug\net10.0\refint\atividade 07.10.dll
+C:\Users\maria\OneDrive\Desktop\Faculdade\2 semestre\estrutura de dados\dicionario\atividade 07.10\obj\Debug\net10.0\atividade 07.10.pdb
+C:\Users\maria\OneDrive\Desktop\Faculdade\2 semestre\estrutura de dados\dicionario\atividade 07.10\obj\Debug\net10.0\atividade 07.10.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Desktop\Faculdade\2 semestre\estrutura de dados\dicionario\atividade 07.10\obj\Debug\net10.0\ref\atividade 07.10.dll
